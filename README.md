@@ -55,8 +55,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/cauet-code?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/cauet-code?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/cauet-code?style=for-the-badge&logo=git&label=Commits%2Fano" alt="Commits no último ano" />
-  <img src="https://img.shields.io/github/languages/count/cauet-code?style=for-the-badge&logo=code&label=Linguagens" alt="Linguagens usadas" />
+  <img src="https://img.shields.io/github/last-commit/cauet-code/cauet-code?style=for-the-badge&logo=git&label=Atualizado" alt="Última atualização" />
+  <img src="https://img.shields.io/github/repo-size/cauet-code/cauet-code?style=for-the-badge&logo=files&label=Tamanho" alt="Tamanho do repositório" />
 </p>
 
 ### Minha atividade
