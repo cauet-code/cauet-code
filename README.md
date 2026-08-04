@@ -54,25 +54,3 @@ Sou desenvolvedor **full-stack**, com foco em construir sistemas completos: do b
   <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-16A34A?style=flat-square" alt="Cloud e DevOps" />
 </p>
 
-### Ambiente de foco
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cauet-code/cauet-code/main/assets/lofi-study.svg" width="100%" alt="Cauet programando em um quarto lofi enquanto chove" />
-</p>
-
-<p align="center"><i>Uma noite chuvosa, um monitor aceso e mais uma ideia ganhando vida.</i></p>
-
-### GitHub em números
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cauet-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauet-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauet-code&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cauet-code&style=flat-square&color=2563eb" alt="Visualizações do perfil" />
-</p>
