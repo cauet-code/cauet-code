@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">Cauet programando em uma noite chuvosa</title>
+  <desc id="desc">Cena lofi animada com desenvolvedor trabalhando no quarto, chuva na janela e luz quente de mesa.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#151e3b"/><stop offset="1" stop-color="#222c4c"/></linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172850"/><stop offset="1" stop-color="#304f91"/></linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9b5b46"/><stop offset="1" stop-color="#3d2635"/></linearGradient>
+    <linearGradient id="hoodie" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#384b7e"/><stop offset="1" stop-color="#1a2344"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="windowClip"><rect x="710" y="82" width="410" height="250" rx="5"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="500" fill="url(#wall)"/>
+  <circle cx="1020" cy="115" r="120" fill="#607ac5" opacity=".14" filter="url(#glow)"/>
+  <path d="M0 378h1200v122H0z" fill="#10172d"/>
+
+  <!-- janela e cidade -->
+  <rect x="690" y="60" width="450" height="294" rx="10" fill="#0e1730" stroke="#596b9e" stroke-width="8"/>
+  <rect x="710" y="82" width="410" height="250" fill="url(#window)"/>
+  <g clip-path="url(#windowClip)" opacity=".85">
+    <path d="M700 292h440v42H700z" fill="#111d40"/>
+    <path d="M730 220h36v72h-36zm52-42h34v114h-34zm51 65h39v49h-39zm58-85h28v134h-28zm46 55h43v79h-43zm62-74h29v153h-29zm50 64h45v89h-45z" fill="#1b2c5b"/>
+    <path d="M736 234h5v7h-5zm15 0h6v8h-6zm41-26h6v8h-6zm13 0h5v8h-5zm69-31h5v8h-5zm14 0h6v8h-6zm52 45h6v8h-6zm12 0h5v8h-5zm65-45h5v8h-5zm17 0h6v8h-6zm12 0h5v8h-5zm-272 72h6v8h-6zm58 27h5v8h-5zm107-37h6v8h-6z" fill="#ffcf9b">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.7s" repeatCount="indefinite"/>
+    </path>
+    <g stroke="#9fc7ff" stroke-width="2" stroke-linecap="round" opacity=".8">
+      <path d="M726 74v35M750 47v35M775 92v38M808 58v32M843 75v30M875 44v37M908 83v34M941 53v34M972 73v30M1004 47v35M1037 79v32M1070 51v37M1094 71v34">
+        <animateTransform attributeName="transform" type="translate" values="0 -35;0 230" dur="1.7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+  <path d="M915 60v294M690 210h450" stroke="#6678ab" stroke-width="7" opacity=".7"/>
+
+  <!-- prateleira -->
+  <path d="M58 104h220" stroke="#9b6a59" stroke-width="14"/>
+  <path d="M82 104v-77h40v77m72 0V10h42v94" fill="none" stroke="#9b6a59" stroke-width="9"/>
+  <path d="M88 92h28V40H88zm78 0h25V26h-25zm43 0h31V52h-31z" fill="#5d6aa0"/>
+  <circle cx="260" cy="75" r="22" fill="#78a66c"/><path d="M260 75c-32-30-38 12-12 12m12-12c35-25 42 10 15 18" stroke="#78a66c" stroke-width="6" fill="none"/>
+
+  <!-- glow do monitor -->
+  <ellipse cx="418" cy="310" rx="270" ry="160" fill="#4d74e8" opacity=".14" filter="url(#glow)">
+    <animate attributeName="opacity" values=".09;.2;.09" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- personagem -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="3.2s" repeatCount="indefinite"/>
+    <path d="M325 405c6-88 42-131 112-137 79-6 140 48 151 137z" fill="url(#hoodie)" stroke="#131b36" stroke-width="6"/>
+    <path d="M387 291c17 45 82 53 107 0l-10-61h-87z" fill="#f0b28a" stroke="#131b36" stroke-width="6"/>
+    <path d="M379 233c3-71 38-94 86-88 51 5 68 38 57 91-18-6-32-25-38-47-25 34-61 48-105 44z" fill="#14172d" stroke="#0c1227" stroke-width="7"/>
+    <path d="M372 205c-15-22-10-55 17-63m119 8c28 10 41 35 29 67" fill="none" stroke="#232b4b" stroke-width="17" stroke-linecap="round"/>
+    <circle cx="382" cy="185" r="25" fill="#222a4b" stroke="#0e142d" stroke-width="6"/><circle cx="528" cy="185" r="25" fill="#222a4b" stroke="#0e142d" stroke-width="6"/>
+    <path d="M408 204q23 12 45 0" stroke="#a65f62" stroke-width="4" fill="none"/>
+    <path d="M366 315q-46 29-64 78m175-76q48 22 89 74" fill="none" stroke="#344679" stroke-width="28" stroke-linecap="round"/>
+    <path d="M309 393q55 20 114 0" fill="none" stroke="#f0b28a" stroke-width="16" stroke-linecap="round">
+      <animate attributeName="d" values="M309 393q55 20 114 0;M309 397q55 15 114-4;M309 393q55 20 114 0" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M366 270q5-34 33-48" fill="none" stroke="#f0b28a" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <!-- mesa e monitor -->
+  <path d="M0 398h690v26H0z" fill="url(#desk)"/>
+  <path d="M95 424h28v76H95zm520 0h28v76h-28z" fill="#352238"/>
+  <rect x="185" y="218" width="225" height="138" rx="8" fill="#0d142c" stroke="#6675a8" stroke-width="6" transform="rotate(-4 297 287)"/>
+  <rect x="200" y="232" width="195" height="108" fill="#18254b" transform="rotate(-4 297 287)"/>
+  <g stroke-linecap="round" stroke-width="4" transform="rotate(-4 297 287)">
+    <path d="M215 250h55m-48 13h82m-89 14h43m-35 14h73m-82 14h58m-49 14h92m-85 14h32" stroke="#6dd5b3"/>
+    <path d="M278 250h72m-49 13h43m-72 28h52m-55 28h76" stroke="#e1a9ee"/>
+    <path d="M214 250h8m-8 41h8m-8 42h8" stroke="#f6c76a"/>
+    <path d="M285 226v115" stroke="#38558f" stroke-width="2">
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M285 355v39h28" stroke="#6d78a1" stroke-width="7" fill="none"/>
+  <path d="M230 397h160" stroke="#252d50" stroke-width="12"/>
+  <path d="M260 386h205l34 17H232z" fill="#202844" stroke="#11172e" stroke-width="5"/>
+  <path d="M273 393h172" stroke="#6682b3" stroke-width="2" stroke-dasharray="5 6"/>
+
+  <!-- caneca e vapor -->
+  <path d="M145 359h60v45h-60z" fill="#4c5f96" stroke="#131a34" stroke-width="5"/>
+  <path d="M205 369q33-1 0 27" fill="none" stroke="#4c5f96" stroke-width="9"/>
+  <path d="M161 348c-9-22 12-24 2-46m22 46c-9-22 13-25 2-49" fill="none" stroke="#e6d7cf" stroke-width="4" opacity=".65">
+    <animate attributeName="opacity" values=".15;.8;.15" dur="2.1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 3;5 -5;0 3" dur="2.1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- luminaria -->
+  <path d="M50 394h110M78 394V180m0 0 62-37" stroke="#202744" stroke-width="9" fill="none"/>
+  <path d="M124 127h86l-20 44h-46z" fill="#e3a85e" stroke="#222741" stroke-width="6"/>
+  <path d="M148 170h39v26h-39z" fill="#ffdca1" opacity=".75"/>
+  <ellipse cx="167" cy="188" rx="105" ry="75" fill="#f9bb65" opacity=".16" filter="url(#soft)">
+    <animate attributeName="opacity" values=".1;.25;.1" dur="2.7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <text x="740" y="455" fill="#9eafd9" font-family="monospace" font-size="16" letter-spacing="3" opacity=".8">FOCUS MODE • JAVA / KOTLIN / GO</text>
+</svg>
