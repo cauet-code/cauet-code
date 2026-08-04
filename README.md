@@ -53,12 +53,10 @@
 ### GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cauet-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauet-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauet-code&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/cauet-code?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/cauet-code?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/cauet-code?style=for-the-badge&logo=git&label=Commits%2Fano" alt="Commits no último ano" />
+  <img src="https://img.shields.io/github/languages/count/cauet-code?style=for-the-badge&logo=code&label=Linguagens" alt="Linguagens usadas" />
 </p>
 
 ### Minha atividade
