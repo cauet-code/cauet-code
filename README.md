@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Cauet%20Gabriel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%7C%20interfaces%20%7C%20produtos%20digitais&descAlignY=58&descSize=16" width="100%" alt="Cauet Gabriel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:2563eb&height=190&section=header&text=Cauet%20Gabriel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%7C%20Java%20%7C%20Kotlin%20%7C%20Go%20%7C%20Mobile&descAlignY=58&descSize=16" width="100%" alt="Cauet Gabriel" />
 </div>
 
-<h1 align="center">Olá, eu sou o Cauet 👋</h1>
+<h1 align="center">Full-stack developer com foco em backend e mobile 👋</h1>
 
 <p align="center">
-  <strong>Construo interfaces, produtos digitais e experiências full-stack.</strong><br />
-  Transformo ideias em soluções funcionais, bonitas e fáceis de usar.
+  <strong>Java • Spring • Kotlin • Android • Go • Flutter • Swift/iOS</strong><br />
+  Construo APIs, aplicações mobile e produtos digitais de ponta a ponta.
 </p>
 
 <p align="center">
   <a href="https://github.com/cauet-code">
     <img src="https://img.shields.io/badge/GitHub-cauet--code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/cauet-code">
+    <img src="https://img.shields.io/badge/GitLab-cauet--code-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="https://www.linkedin.com/in/cauet-gabriel-dias-a3724b268/">
     <img src="https://img.shields.io/badge/LinkedIn-Cauet%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,35 +23,67 @@
 
 ---
 
-### Sobre mim
+### Quem sou eu
 
-- Desenvolvedor focado em **front-end, full-stack e produto**.
-- Gosto de criar interfaces com atenção a **experiência, responsividade e detalhes visuais**.
-- Trabalho em projetos web, APIs e aplicações multiplataforma.
-- Atualmente, estou aprofundando engenharia de software enquanto construo projetos reais.
+Sou desenvolvedor **full-stack**, com interesse especial em criar sistemas completos: do backend e das APIs até o app mobile e a experiência final do usuário.
 
-### Tecnologias e ferramentas
+- Construo serviços e APIs com **Java, Spring Boot, Kotlin e Go**.
+- Desenvolvo aplicações mobile para **Android, Flutter e iOS**.
+- Também trabalho com produtos web usando **TypeScript, JavaScript, React e Tailwind CSS**.
+- Gosto de transformar requisitos em software bem estruturado, funcional e pronto para evoluir.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,nodejs,bun,ruby,rails,dart,flutter,go,python&perline=7" alt="Tecnologias: TypeScript, JavaScript, React, Tailwind CSS, HTML, CSS, Node.js, Bun, Ruby, Rails, Dart, Flutter, Go e Python" />
-  </a>
+### Minha stack
+
+#### Backend & arquitetura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,postgres&perline=8" alt="Java, Spring, Kotlin, Go e PostgreSQL" />
+</p>
+
+#### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,dart,flutter,swift,apple&perline=8" alt="Android, Kotlin, Dart, Flutter, Swift e iOS" />
+</p>
+
+#### Web, runtime & colaboração
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,bun,git,github,gitlab&perline=9" alt="TypeScript, JavaScript, React, Tailwind CSS, Node.js, Bun, Git, GitHub e GitLab" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UI%20%26%20UX-111827?style=flat-square" alt="UI e UX" />
-  <img src="https://img.shields.io/badge/APIs-2563EB?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/Responsive%20Web-0EA5E9?style=flat-square" alt="Responsive Web" />
-  <img src="https://img.shields.io/badge/Produto-7C3AED?style=flat-square" alt="Produto" />
+  <img src="https://img.shields.io/badge/Full--stack-0f172a?style=flat-square" alt="Full-stack" />
+  <img src="https://img.shields.io/badge/Backend-2563EB?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Mobile-7C3AED?style=flat-square" alt="Mobile" />
+  <img src="https://img.shields.io/badge/APIs-0EA5E9?style=flat-square" alt="APIs" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-16A34A?style=flat-square" alt="Cloud e DevOps" />
 </p>
 
-### Projetos em destaque
+### O que eu construo
 
-| Projeto | O que estou construindo |
-| :--- | :--- |
-| **Interfaces web** | Landing pages, dashboards e experiências responsivas. |
-| **Produtos digitais** | Soluções com foco em clareza, fluxo e utilidade. |
-| **Projetos full-stack** | Front-end, APIs e integrações de ponta a ponta. |
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Backend & APIs</strong><br />
+      Serviços, integrações e regras de negócio com Java, Spring, Kotlin e Go.
+    </td>
+    <td width="50%">
+      <strong>Mobile</strong><br />
+      Aplicações Android, Flutter e iOS com foco em experiência e performance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Produtos web</strong><br />
+      Interfaces, dashboards e produtos responsivos com TypeScript e React.
+    </td>
+    <td width="50%">
+      <strong>Entrega de produto</strong><br />
+      Do protótipo à implementação, conectando frontend, backend e dados.
+    </td>
+  </tr>
+</table>
 
 ### GitHub em números
 
@@ -74,5 +109,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0b1120&height=100&section=footer" width="100%" alt="" />
 </div>
